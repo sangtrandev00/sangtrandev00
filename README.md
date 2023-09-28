@@ -1,6 +1,6 @@
 # Simple introduce myself
 
-- 👋 Hi, I’m Sang Tran, | Aspiring Web developer, | Seeking for Web Development Job
+- 👋 Hi, I’m Sang Tran, | Aspiring Web developer, | Seeking for Web Development | Front-end Development Job
 - 👀 I’m interested in programming, coding
 - MY SKILLS:
   + FRONTEND: HTML, CSS/SCSS, TAILWIND CSS, JAVASCRIPT/TYPESCRIPT, REACTJS (REDUX), ANGULAR, NEXTJS (IN PROGRESS), REACT NATIVE (IN PROGRESS), VUEJS (Future Target)

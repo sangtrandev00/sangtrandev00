@@ -1,4 +1,4 @@
-# Simple introduce myself
+# Simple Introduce MySelf
 
 - 👋 Hi, I’m Sang Tran, | Aspiring Web developer, | Seeking for Web Development | Front-end Development Job
 - 👀 I’m interested in programming, coding

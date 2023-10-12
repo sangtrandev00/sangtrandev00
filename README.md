@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Sang Tran, | Aspiring Web developer, | Seeking for Web Development | Front-end Development Job
 - 👀 I’m interested in programming, coding
 - MY SKILLS:
-  + FRONTEND: HTML, CSS/SCSS, TAILWIND CSS, JAVASCRIPT/TYPESCRIPT, REACTJS (REDUX), ANGULAR, NEXTJS (IN PROGRESS), REACT NATIVE (IN PROGRESS).
+  + FRONTEND: HTML, CSS/SCSS, TailwindCSS, JavaScript, TypeScript, ReactJS (REDUX), Angular, NextJS (IN PROGRESS), REACT NATIVE (IN PROGRESS).
   + BACKEND: Basic NodeJS (Express), PHP, RESTFul API, Firebase
   + DATABASE: SQL (MYSQL), NoSQL (MongoDB)
   + LIBRARIES: TAILWIND CSS, BOOTSTRAP, ANT DESIGN, MATERIAL UI.

@@ -1,4 +1,4 @@
-# Simple Introduce MySelf
+# Simple Introduce MySelf - Trần Nhật Sang
 
 - 👋 Hi, I’m Sang Tran, | Aspiring Web developer, | Seeking for Web Development | Front-end Development Job
 - 👀 I’m interested in programming and coding

@@ -1,6 +1,6 @@
 # Simple Introduce MySelf - Trần Nhật Sang
 
-- 👋 Hi, I’m Sang Tran, | Aspiring Web developer, | Seeking for Web Development | Front-end Development Job | Fullstack Developer
+- 👋 Hi, I’m Tran Nhat Sang, | Aspiring Web developer, | Seeking for Web Development | Front-end Development Job | Fullstack Developer
 - 👀 I’m interested in programming and coding
 - Skills:
   + Frontend: HTML, CSS/SCSS, TailwindCSS, JavaScript, TypeScript, ReactJS (REDUX), Angular, NextJS, React Native.

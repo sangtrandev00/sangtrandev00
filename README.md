@@ -6,6 +6,7 @@
   + Frontend: HTML, CSS/SCSS, TailwindCSS, JavaScript, TypeScript, RxJS, ReactJS (Redux, Redux Toolkit), Angular, NextJS, React Native.
   + Backend: NodeJS (ExpressJS, NestJS), PHP, RESTFul API, Firebase
   + Database: SQL(MYSQL), NoSQL(MongoDB)
+  + DevOps: 
   + Libraries: Tailwind CSS, Boostrap, Ant Design, Material UI.
   + Tools: Jira, Agile Methodology.
   + Other Skills: Git, Figma (UI/UX), WordPress.

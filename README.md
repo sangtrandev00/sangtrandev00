@@ -8,9 +8,9 @@
   + Database: SQL(MYSQL), NoSQL(MongoDB)
   + DevOps: Docker
   + Libraries: Tailwind CSS, Boostrap, Ant Design, Material UI.
-  + Software Design: OOP,  
-  + Tools: Jira, Agile Methodology, Unit Test (Jest).
-  + Other Skills: Git, Figma (UI/UX), WordPress.
+  + Software Design: OOP,
+  + Tools: Jira, Agile Methodology, Unit Test (Jest, Vitest).
+  + Other Skills: Git, Figma (UI/UX), WordPress (CMS).
 - 🌱 I’m currently learning and developing web development, and software development.
 - 💞️ I’m looking to collaborate with a technology company.
 - 📫 You can reach me by contact via:

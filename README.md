@@ -6,7 +6,7 @@
   + Frontend: HTML, CSS/SCSS, TailwindCSS, JavaScript, TypeScript, RxJS, ReactJS (Redux, Redux Toolkit), Angular, NextJS, React Native.
   + Backend: NodeJS (ExpressJS, NestJS), PHP, RESTFul API, Firebase
   + Database: SQL(MYSQL), NoSQL(MongoDB)
-  + DevOps: Docker
+  + DevOps: Docker, Github actions, Basic CI/CD (Deployment)
   + Libraries: Tailwind CSS, Boostrap, Ant Design, Material UI.
   + Software Design: OOP,
   + Tools: Jira, Agile Methodology, Unit Test (Jest, Vitest).

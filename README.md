@@ -6,7 +6,7 @@
   + **Frontend**: HTML, CSS/SCSS, JavaScript (ECMAScript), TypeScript, RxJS, ReactJS (Redux, Redux Toolkit, RTK Query), Angular, NextJS, React Native.
   + **Backend**: NodeJS (ExpressJS, NestJS), PHP, RESTFul API, Firebase
   + **Database**: SQL(MYSQL), NoSQL(MongoDB)
-  + **DevOps**: Docker, Github actions, Basic CI/CD (Deployment)
+  + **DevOps**: Docker, Github actions, Netlify, Vercel, OnRender, Hosting, Basic CI/CD (Deployment)
   + **Libraries/ Frameworks**: Tailwind CSS, Boostrap, Ant Design, Material UI.
   + **Programming Paradigm**: OOP, Data structures & Algorithm
   + **Tools**: Jira, Agile Methodology, Unit Test (Jest, Vitest).

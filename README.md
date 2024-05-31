@@ -8,10 +8,10 @@
   + **Database**: SQL(MYSQL), NoSQL(MongoDB)
   + **DevOps**: Docker, Github actions, Netlify, Vercel, OnRender, Hosting, Basic CI/CD (Deployment)
   + **Libraries/ Frameworks**: Tailwind CSS, Boostrap, Ant Design, Material UI.
-  + **Programming Paradigm**: OOP, Data structures & Algorithm
+  + **Programming Paradigm**: OOP (Design Pattern & SOLID - IN PROGRESS), Data structures & Algorithm (DA - IN PROGRESS)
   + **Tools**: Jira, Agile Methodology, Unit Test (Jest, Vitest).
   + **Other Skills**: Git, Figma (UI/UX), WordPress (CMS).
-- 🌱 I’m currently learning and developing web development, and software development.
+- 🌱 I’m currently learning and developing web and software development.
 - 👀 I’m looking to collaborate with a technology company.
 - 📫 You can reach me by contact via:
 - **Email**: nhatsang0101@gmail.com.

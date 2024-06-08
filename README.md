@@ -3,8 +3,8 @@
 - 👋 Hi, I’m Tran Nhat Sang, | I am a Web developer, Fullstack Developer, Software Engineer
 - 💞️ I’m interested in programming and coding
 - **Skills:**
-  + **Frontend**: HTML, CSS/SCSS, JavaScript (ECMAScript), TypeScript, RxJS, ReactJS (Redux, Redux Toolkit, RTK Query), Angular, NextJS, React Native.
-  + **Backend**: NodeJS (ExpressJS, NestJS), PHP, RESTFul API, Firebase
+  + **Frontend**: HTML, CSS/SCSS, JavaScript (ECMAScript), TypeScript, RxJS, ReactJS (Redux, Redux Toolkit, RTK Query), Angular
+  + **Backend**: NodeJS (ExpressJS, NestJS) RESTFul API, Firebase
   + **Database**: SQL(MYSQL), NoSQL(MongoDB)
   + **DevOps**: Docker, Github actions, Netlify, Vercel, OnRender, Hosting, Basic CI/CD (Deployment)
   + **Libraries/ Frameworks**: Tailwind CSS, Boostrap, Ant Design, Material UI.

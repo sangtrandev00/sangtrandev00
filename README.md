@@ -11,7 +11,7 @@
   + **Programming Paradigm**: OOP (Design Pattern & SOLID - IN PROGRESS), Data structures & Algorithm (DA - IN PROGRESS)
   + **Tools**: Jira, Agile Methodology, Unit Test (Jest, Vitest).
   + **Other Skills**: Git, Figma (UI/UX), WordPress (CMS).
--** My Experience**:
+- **My Experience:**
   + HRM: Human Resource
   + RMS: Room Management System
   + PMS: Purchasement Management System

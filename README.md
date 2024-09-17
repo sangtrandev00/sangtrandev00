@@ -4,7 +4,7 @@
 - 💞️ I’m interested in programming and coding
 - **My Skills:**
   + **Frontend**: HTML, CSS/SCSS, JavaScript (ECMAScript), TypeScript, RxJS, ReactJS (Redux, Redux Toolkit, RTK Query), Angular
-  + **Backend**: NodeJS (ExpressJS, NestJS) RESTFul API, Socket.io, Redis (TARGET)
+  + **Backend**: NodeJS (ExpressJS, NestJS) RESTFul API, GraphQL (TARGET), Socket.io, Redis (TARGET)
   + **Database**: SQL(MYSQL), NoSQL(MongoDB)
   + **DevOps**: Docker, CLOUD AWS (TARGET), Github actions, Netlify, Vercel, OnRender, Hosting, Basic CI/CD (Deployment)
   + **Libraries/ Frameworks**: Tailwind CSS, Boostrap, Ant Design, Material UI.

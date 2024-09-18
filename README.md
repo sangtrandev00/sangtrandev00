@@ -3,13 +3,13 @@
 - 👋 Hi, I’m Tran Nhat Sang, | I have more than 1 year of experience as a Web developer, Fullstack Developer
 - 💞️ I’m interested in programming and coding
 - **My Skills:**
-  + **Frontend**: HTML, CSS/SCSS, JavaScript (ECMAScript), TypeScript, RxJS, ReactJS (Redux, Redux Toolkit, RTK Query), Angular
-  + **Backend**: NodeJS (ExpressJS, NestJS) RESTFul API, GraphQL (TARGET), Socket.io, Redis (TARGET)
-  + **Database**: SQL(MYSQL), NoSQL(MongoDB)
+  + **Frontend**: HTML, CSS/SCSS, JavaScript (ECMAScript), TypeScript, ReactJS (Redux, Redux Toolkit, RTK Query), Angular (RxJS, NgRx)
+  + **Backend**: NodeJS (ExpressJS, NestJS), API (RESTFul, GraphQL -- TARGET), RealTime (Socket.io, Firebase), Cache (Redis -- TARGET, Memcached -- TARGET)
+  + **Database**: SQL(MySQL, Postgres, MSSQL), NoSQL(MongoDB)
   + **DevOps**: Docker, CLOUD AWS (TARGET), Github actions, Netlify, Vercel, OnRender, Hosting, Basic CI/CD (Deployment)
   + **Libraries/ Frameworks**: Tailwind CSS, Boostrap, Ant Design, Material UI.
   + **Programming Paradigm**: OOP (Design Pattern & SOLID - IN PROGRESS), Data structures & Algorithm (DA - IN PROGRESS)
-  + **Architecture**: Microservice (TARGET) 
+  + **Architecture**: Microservices (TARGET), Monolithic, MVC.
   + **Tools**: Jira, Agile Methodology, Unit Test (Jest, Vitest).
   + **Other Skills**: Git, Figma (UI/UX), WordPress (CMS).
 - **My Experience:**

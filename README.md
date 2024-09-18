@@ -22,6 +22,8 @@
 - 🌱 I’m currently learning and developing web and software development.
 - 👀 I’m looking to collaborate with a technology company.
 - 📫 You can reach me by contact via:
+- **[English]:**
+- Strong at verbal communication
 - **Email**: nhatsang0101@gmail.com.
 - **Website**: https://trannhatsang.com to see more about myself
 - I am eager to learn and discover new technology.

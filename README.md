@@ -17,7 +17,7 @@
   + HRM: Human Resource
   + RMS: Room Management System
   + PMS: Purchasement Management System
-  + Contract Car Management System
+  + CMS: Contract Car Management System
 - **[My Portfolio]:** Here is my Portfolio
 [[Google Drive Folder](https://drive.google.com/drive/folders/1gau2bvpQ-91lOYe-SHl5r7Xtm8E3Weh5)]
 - 🌱 I’m currently learning and developing web and software development.

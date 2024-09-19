@@ -14,6 +14,7 @@
   + **Architecture**: Microservices (TARGET), Monolithic, MVC.
   + **Tools**: Jira, Agile Methodology, Unit Test (Jest, Vitest).
   + **Other Skills**: Git, Figma (UI/UX), WordPress (CMS).
+- **[English]:** I am Strong at verbal communication.
 - **[My Experience]:**
 [[Links Description Detail](https://drive.google.com/drive/folders/1USNN4cTRDgNo4XWbnm-iyOjwt8_-A6mf)] I have hands-on experiences with these projects:
   + HRM: Human Resource
@@ -23,7 +24,6 @@
 - **[My Portfolio]:** Here is my Portfolio
 [[Google Drive Folder](https://drive.google.com/drive/folders/1gau2bvpQ-91lOYe-SHl5r7Xtm8E3Weh5)]
 - 📫 You can reach me by contact via:
-- **[English]:** I am Strong at verbal communication.
 - **[My CV]:**
 [[Online Resume](https://cv.trannhatsang.com)]
 - **[Email]**: nhatsang0101@gmail.com.

@@ -2,6 +2,8 @@
 
 👋 Hi, I’m Tran Nhat Sang. I have over one year of experience as a Web developer and full-stack Developer!
 - 💞️ I’m interested in programming and coding! My dream is to help your business grow and scale up. Contact with me!
+- 🌱 I’m currently learning and developing web and software development.
+- 👀 I’m looking to collaborate with a technology company.
 - **[My Skills]:**
   + **Frontend**: HTML, CSS/SCSS, JavaScript, TypeScript, ReactJS (Redux, Redux Toolkit, RTK Query), Angular (RxJS, NgRx)
   + **Backend**: NodeJS (ExpressJS, NestJS), API (RESTFul, GraphQL -- TARGET), RealTime (Socket.io, Firebase), Cache (Redis -- TARGET, Memcached -- TARGET)
@@ -20,8 +22,6 @@
   + CMS: Contract Car Management System
 - **[My Portfolio]:** Here is my Portfolio
 [[Google Drive Folder](https://drive.google.com/drive/folders/1gau2bvpQ-91lOYe-SHl5r7Xtm8E3Weh5)]
-- 🌱 I’m currently learning and developing web and software development.
-- 👀 I’m looking to collaborate with a technology company.
 - 📫 You can reach me by contact via:
 - **[English]:** I am Strong at verbal communication.
 - **[My CV]:**

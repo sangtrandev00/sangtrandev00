@@ -17,10 +17,12 @@
 - **[English]:** I am Strong at verbal communication.
 - **[My Experience]:**
 [[Links Description Detail](https://drive.google.com/drive/folders/1USNN4cTRDgNo4XWbnm-iyOjwt8_-A6mf)] I have hands-on experiences with these projects:
-  + HRM: Human Resource
+  + HRM: Human Resource Management
   + RMS: Room Management System
-  + PMS: Purchasement Management System
+  + PMS: Procurement Management System
   + CMS: Contract Car Management System
+  + ELearning
+  + Ecommerce
 - **[My Portfolio]:** Here is my Portfolio
 [[Google Drive Folder](https://drive.google.com/drive/folders/1gau2bvpQ-91lOYe-SHl5r7Xtm8E3Weh5)]
 - 📫 You can reach me by contact via:

@@ -8,7 +8,7 @@
   + **Frontend**: HTML, CSS/SCSS, JavaScript, TypeScript, ReactJS (Redux, Redux Toolkit, RTK Query), Angular (RxJS, NgRx)
   + **Backend**: NodeJS (ExpressJS, NestJS), API (RESTFul, GraphQL -- TARGET), RealTime (Socket.io, Firebase), Cache (Redis -- TARGET, Memcached -- TARGET)
   + **Database**: SQL(MySQL, Postgres, MSSQL), NoSQL(MongoDB)
-  + **DevOps**: Docker, CLOUD AWS (TARGET), Github actions, Netlify, Vercel, OnRender, Hosting, Basic CI/CD (Deployment)
+  + **DevOps**: Docker, CLOUD AWS, Github actions, Netlify, Vercel, OnRender, Hosting, Basic CI/CD (Deployment)
   + **Libraries/ Frameworks**: Tailwind CSS, Boostrap, Ant Design, Material UI.
   + **Programming Paradigm**: OOP (Design Pattern & SOLID - IN PROGRESS), Data structures & Algorithm (DA - IN PROGRESS)
   + **Architecture**: Microservices (TARGET), Monolithic, MVC.

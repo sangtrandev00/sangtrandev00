@@ -1,6 +1,6 @@
 # Simple Introduce MySelf - Trần Nhật Sang
 
-👋 Hi, I’m Tran Nhat Sang. I have over one year of experience as a Web developer and full-stack Developer!
+👋 Hi, I’m Tran Nhat Sang. I have over 2 years of experience as a Web developer and full-stack Developer!
 - 💞️ I’m interested in programming and coding! My dream is to help your business grow and scale up. Contact with me!
 - 🌱 I’m currently learning and developing web and software development.
 - 👀 I’m looking to collaborate with a technology company.

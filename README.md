@@ -28,9 +28,9 @@
 [[Google Drive Folder](https://drive.google.com/drive/folders/1gau2bvpQ-91lOYe-SHl5r7Xtm8E3Weh5)]
 - 📫 You can reach me by contact via:
 - **[My CV]:**
-[[Online Resume](https://cv.trannhatsang.com)]
-- **[Email]**: nhatsang0101@gmail.com.
-- **[Website]**: https://trannhatsang.online to see more about myself
+[[Online Resume](https://cv.trannhatsang.online)]
+  + **[Email]**: nhatsang0101@gmail.com.
+  + **[Website]**: https://trannhatsang.online to see more about myself
 - I am eager to learn and discover new technology.
 - My quotes: No pain, no gain. Never stop learning
 <!---

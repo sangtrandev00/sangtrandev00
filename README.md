@@ -6,8 +6,8 @@
 - 👀 I’m looking to collaborate with a technology company.
 - **[My Skills]:**
   + **Frontend**: HTML, CSS/SCSS, JavaScript, TypeScript, ReactJS (Redux, Redux Toolkit, RTK Query), Angular (RxJS, NgRx)
-  + **Backend**: NodeJS (ExpressJS, NestJS), Golang (Gin), API (RESTful, GraphQL -- TARGET), RealTime (Socket.io, Firebase), Cache (Redis -- TARGET, Memcached -- TARGET)
-  + **Database**: SQL(MySQL, Postgres, MSSQL, MariaDB), NoSQL(MongoDB)
+  + **Backend**: NodeJS (ExpressJS, NestJS), Golang (Gin), API (RESTful, GraphQL -- TARGET), RealTime (Socket.io, Firebase)
+  + **Database**: SQL(MySQL, Postgres, MSSQL, MariaDB), NoSQL(MongoDB), Caching (Redis)
   + **DevOps**: Docker, CLOUD AWS, Github actions, Netlify, Vercel, OnRender, Hosting, Basic CI/CD (Deployment)
   + **Libraries/ Frameworks**: Tailwind CSS, Bootstrap, Ant Design, Material UI.
   + **Programming Paradigm**: OOP (Design Pattern & SOLID - IN PROGRESS), Data structures & Algorithm (DSA)
@@ -29,7 +29,7 @@
 - 📫 You can reach me by contact via:
 - **[My CV]:**
 [[Online Resume](https://cv.trannhatsang.online)]
-  + **[Email]**: nhatsang0101@gmail.com.
+  + **[Email]**: trannhatsang.work@gmail.com
   + **[Website]**: https://trannhatsang.online to see more about myself
 - I am eager to learn and discover new technology.
 - My quotes: No pain, no gain. Never stop learning
